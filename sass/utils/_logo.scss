@@ -1,0 +1,20 @@
+.logo {
+  width: 145px;
+  padding: 0;
+  margin: 0;
+  font-family: Raleway;
+  text-decoration: none;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.19;
+  &__accent {
+    color: #2196f3;
+  }
+  &__dark-theme {
+    color: black;
+  }
+  &__white-theme {
+    color: white;
+    font-weight: 700;
+  }
+}
